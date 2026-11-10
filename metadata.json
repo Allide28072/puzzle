@@ -1,0 +1,6 @@
+{
+  "name": "Puzzle Play",
+  "description": "An image puzzle game with multiple difficulty levels, drag & swap mechanics, live sound effects, PWA offline capability, and score tracking. Developed by Allide'.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
